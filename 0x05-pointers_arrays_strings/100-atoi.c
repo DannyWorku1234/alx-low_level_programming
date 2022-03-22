@@ -26,3 +26,4 @@ int i, j, n, x;
 	}
 	return (n);
 }
+
